@@ -1,5 +1,5 @@
-from maze_2 import Maze
-#from maze_1 import Maze
+from maze import Maze
+
 from a_search import ASearch
 
 
