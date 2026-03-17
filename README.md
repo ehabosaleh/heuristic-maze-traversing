@@ -8,6 +8,3 @@ More information in [Best First Search](https://en.wikipedia.org/wiki/Best-first
 A* is the best known algorithm to traverse a tree or a graph, and it known as an improvement version of the algorithm Best First Search. Instead of using only the heuristic cost function which estimate the cost from the current node to the goal node, we use in addition the estimated cost from the starting node to the current node.  
 More information in [A* Search](https://en.wikipedia.org/wiki/A*_search_algorithm)
 
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
